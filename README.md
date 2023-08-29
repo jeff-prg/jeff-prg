@@ -1,6 +1,6 @@
 # Ola
 
-Me chamo Jefferson Santos, mas podem me chamar apenas de jeff, sou Back-End Developer desde 2023, atualmente estudo na organização Cubos Academy
+Me chamo Jefferson Santos, mas podem me chamar apenas de Jeff, sou Back-End Developer desde 2023, atualmente estudo na organização Cubos Academy
 
 ## Me Encontre:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-santos-1b82b119b/)
